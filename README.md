@@ -1,2 +1,0 @@
-# MyFirstWASMPorfolio0703
-MyFirstWASMPorfolio0703
